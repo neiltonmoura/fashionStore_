@@ -1,3 +1,10 @@
+Projeto desenvolvido pelos alunos:
+Jorge Renato
+Neilton Mendes
+Willian
+Rafael
+
+
 Fashion Store
 Descrição
 
